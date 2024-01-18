@@ -92,6 +92,7 @@ pub mod epd7in5_hd;
 pub mod epd7in5_v2;
 pub mod epd7in5_v3;
 pub mod epd7in5b_v2;
+pub mod mh_et_2in9;
 
 pub(crate) mod type_a;
 
